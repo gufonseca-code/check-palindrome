@@ -1,2 +1,2 @@
 # check-palindrome
-Neste repositório contém a resolução da atividade Desafios - Pilha exercício 2 do professor João Paulo Coelho Furtado da UC estrutura de dados e análise de algoritmos.
+Neste repositório contém um algoritmo que verifica se uma palavra é palíndroma (quando é a mesma escrita de trás para frente).
